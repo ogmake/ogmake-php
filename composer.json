@@ -6,7 +6,7 @@
     "version": "0.1.0",
     "homepage": "https://ogmake.com",
     "authors": [{ "name": "ogmake", "email": "support@ogmake.com", "homepage": "https://ogmake.com" }],
-    "support": { "email": "support@ogmake.com", "source": "https://github.com/IgorBaranov/ogmake-php" },
+    "support": { "email": "support@ogmake.com", "source": "https://github.com/ogmake/ogmake-php" },
     "keywords": ["ogmake", "open-graph", "og-image"],
     "require": {
         "php": "^8.1",
