@@ -5,7 +5,8 @@ Framework-agnostic PHP SDK for the [ogmake](https://ogmake.com) OG image API. Re
 ## Install
 
 ```sh
-composer require ogmake/ogmake-php   # not yet published; use a path repository for now
+composer config repositories.ogmake vcs https://github.com/ogmake/ogmake-php
+composer require ogmake/ogmake-php:dev-main
 ```
 
 ## Examples
